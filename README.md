@@ -1,9 +1,11 @@
 # GUIRoboTron-Speech
 
-
 ## 🎬 Introduction
 
 This repository is the official implementation of GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions.
+
+<video src="asset\demo.mp4"  width="640" height="420" controls>
+</video>
 
 ## **✨**News and ToDo List
 
